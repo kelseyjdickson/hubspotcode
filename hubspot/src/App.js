@@ -35,7 +35,6 @@ function App() {
 
   return (
     <>
-      <h1>Heellloo</h1>
       {displayedInfo}
     </>
   );
